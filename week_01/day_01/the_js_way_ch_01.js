@@ -1,4 +1,7 @@
-// Week_01 - the js way chapter 01
+// Week_01 - Day_01
+// The Js Way Chapter 01
+
+//Coding time!
 
 //Minimalistic Calculator
 //Write a program that displays the results of adding, subtracting,
@@ -27,3 +30,8 @@ console.log("4 + 5");
 
 console.log("4" + "5");
 //output: "45"
+
+//Vocabulary
+//concatenation - it will join two chains together, for example, "hel" + "lo"
+//                produces "hello". The + operator when used on strings,
+//                it joins them.
